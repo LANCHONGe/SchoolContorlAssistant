@@ -1,0 +1,2 @@
+# SchoolContorlAssistant
+一个用于学校班级电脑管理员管理一体化的软件合集包
